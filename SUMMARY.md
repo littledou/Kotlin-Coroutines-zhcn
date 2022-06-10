@@ -16,3 +16,4 @@
 * [Part2: Kotlin 协程库](group-2/part2-kotlin-xie-cheng-ku/README.md)
   * [协程构建器](group-2/part2-kotlin-xie-cheng-ku/xie-cheng-gou-jian-qi.md)
   * [协程上下文](group-2/part2-kotlin-xie-cheng-ku/xie-cheng-shang-xia-wen.md)
+  * [Job 和等待子协程](group-2/part2-kotlin-xie-cheng-ku/job-he-deng-dai-zi-xie-cheng.md)
