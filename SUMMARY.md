@@ -18,3 +18,4 @@
   * [协程上下文](group-2/part2-kotlin-xie-cheng-ku/xie-cheng-shang-xia-wen.md)
   * [Job 和等待子协程](group-2/part2-kotlin-xie-cheng-ku/job-he-deng-dai-zi-xie-cheng.md)
   * [协程的取消](group-2/part2-kotlin-xie-cheng-ku/xie-cheng-de-qu-xiao.md)
+  * [异常处理](group-2/part2-kotlin-xie-cheng-ku/yi-chang-chu-li.md)
