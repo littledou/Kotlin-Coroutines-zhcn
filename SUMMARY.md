@@ -20,3 +20,4 @@
   * [协程的取消](group-2/part2-kotlin-xie-cheng-ku/xie-cheng-de-qu-xiao.md)
   * [异常处理](group-2/part2-kotlin-xie-cheng-ku/yi-chang-chu-li.md)
   * [Dispatchers 协程调度器](group-2/part2-kotlin-xie-cheng-ku/dispatchers-xie-cheng-tiao-du-qi.md)
+  * [构建协程作用域](group-2/part2-kotlin-xie-cheng-ku/gou-jian-xie-cheng-zuo-yong-yu.md)
