@@ -23,3 +23,8 @@
   * [构建协程作用域](group-2/part2-kotlin-xie-cheng-ku/gou-jian-xie-cheng-zuo-yong-yu.md)
   * [共享状态的问题](group-2/part2-kotlin-xie-cheng-ku/gong-xiang-zhuang-tai-de-wen-ti.md)
   * [测试 Kotlin 协程](group-2/part2-kotlin-xie-cheng-ku/ce-shi-kotlin-xie-cheng.md)
+
+## Group 3
+
+* [Channel 和 Flow](group-3/channel-he-flow/README.md)
+  * [Channel](group-3/channel-he-flow/channel.md)
