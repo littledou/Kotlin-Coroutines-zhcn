@@ -245,7 +245,7 @@ fun showAllNews() {
     viewModelScope.launch {
         val allNews = (0 until getNumberOfPages())
             .map { page -> async { getNewsFromApi(page) } }
-            .flatMap { it.await() }
+            .map { it.await() }
         view.showAllNews(allNews)
     }
 }
